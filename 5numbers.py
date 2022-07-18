@@ -1,4 +1,4 @@
-# Mathmatic's symbols
+# Mathematic operators
 # plus -> +, minus -> -, multipy -> *, divide -> /
 # exponent -> **, quotient -> //, remainder -> %
 
