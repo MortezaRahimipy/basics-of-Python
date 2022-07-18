@@ -13,7 +13,7 @@ print (status4)
 print ('--------')
 
 
-# Logical Expression
+# Logical operators
 # < , >, ==, <=, >=, !=
 x = 10
 y = 11
